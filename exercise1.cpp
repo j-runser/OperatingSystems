@@ -5,7 +5,7 @@
  * Created: 16 February 2018
  * Updated: 16 February 2018
  *
- * Multithreaded sleep test.
+ * Sleep command test.
  */
 
 #include <unistd.h>

@@ -2,7 +2,7 @@
  * 
  * Author: Joe Runser
  * Created: 23 February 2018
- * Updated: 21 March 2018
+ * Updated: 23 March 2018
  *
  * Pass commands to the operating system. The begginings of a shell.
  */
@@ -10,7 +10,6 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-#include <stdlib.h>
 #include <unistd.h>
 
 using namespace std;

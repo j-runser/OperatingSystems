@@ -6,7 +6,7 @@
  * Compile: g++ -pthread dining_philo2.cpp
  * 
  * Author: Ziad Youssfi
- * Modified: 20 April 2018
+ * Modified: 23 April 2018
  * - Joe Runser
  *
  * Note: When run, this code actually deadlocks--use CTL-C to break.
